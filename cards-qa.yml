@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 build:
   version: "2.0"
 
@@ -9,16 +8,4 @@ cards:
     email: "cherryl@ess.com"
   onCallSupport:
     - (310) 875-4367
-=======
-build:
-  version: "2.0"
-
-cards:
-  message: "Welcome to ESS cards related QA APIs "
-  contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
-    email: "cherryl@ess.com"
-  onCallSupport:
-    - (310) 875-4367
->>>>>>> 0501f70a593517065e4ceb6e7f0266e20fc614ac
     - (201) 236-1267

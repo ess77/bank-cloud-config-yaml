@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 build:
   version: "2.0"
 
@@ -8,4 +9,16 @@ loans:
     email: "cyrano@ess.com"
   onCallSupport:
     - (785) 545-6565
+=======
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to ESS loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: "cyrano@ess.com"
+  onCallSupport:
+    - (785) 545-6565
+>>>>>>> 0501f70a593517065e4ceb6e7f0266e20fc614ac
     - (853) 546-3467

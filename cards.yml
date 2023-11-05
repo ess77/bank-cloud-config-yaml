@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 build:
   version: "3.0"
 
@@ -8,4 +9,16 @@ cards:
     email: "dragos@ess.com"
   onCallSupport:
     - (412) 419-3491
+=======
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to ESS cards related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@ess.com"
+  onCallSupport:
+    - (412) 419-3491
+>>>>>>> 0501f70a593517065e4ceb6e7f0266e20fc614ac
     - (915) 382-1932

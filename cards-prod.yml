@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 build:
   version: "1.0"
 
@@ -9,16 +8,4 @@ cards:
     email: "sandra@ess.com"
   onCallSupport:
     - (617) 432-2356
-=======
-build:
-  version: "1.0"
-
-cards:
-  message: "Welcome to ESS cards related prod APIs "
-  contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@ess.com"
-  onCallSupport:
-    - (617) 432-2356
->>>>>>> 0501f70a593517065e4ceb6e7f0266e20fc614ac
     - (936) 564-8721

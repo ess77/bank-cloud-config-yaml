@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to ESS accounts related QAs APIs "
+  message: "Welcome to ESS cie accounts related QAs APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@ess.com"

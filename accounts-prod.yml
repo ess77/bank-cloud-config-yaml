@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ESS accounts related prod APIs "
+  message: "Welcome to ESS accounts related production APIs "
   contactDetails:
     name: "Dredi Cocoort - Product Owner"
     email: "{cipher}641a77b1066461f9e07feca43959eb0c1b033a3888fc72fd621cbe81c6bd689d539120a2e95e5d1bf382fa92f441f3ac"

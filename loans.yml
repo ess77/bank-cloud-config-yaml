@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to ESS loans related local docker APIs "
+  message: "Welcome to ESS loans related local docker coco APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@ess.com"
